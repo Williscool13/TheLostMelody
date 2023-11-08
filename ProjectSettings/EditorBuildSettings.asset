@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/M00MainMenu.unity
+    guid: 35400d7508fb87d478dd1e83718aaa1b
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/00Shrine.unity
+    guid: 495ef6b53813dc84bad0a13dffc91328
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/01Forest.unity
+    guid: 12eb8e67929cbfb40a9662772b04812a
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/02Mountain.unity
+    guid: c26d68be75a8e954bb549fd3e54a7b72
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/03BasementPuzzle.unity
+    guid: 62a4800fd8fb58a4297a3ed5496e6eac
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/04CoastalCliff.unity
+    guid: 44769808cb405c948bf45a7c516e8532
+  - enabled: 0
+    path: Assets/Scenes/Gameplay Scenes/05WaterWalk.unity
+    guid: 64ca4127eae07eb4380c174be27bb867
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/TemplateTemp.unity
+    guid: 62b3e6619ee2be64dab53f71c170d544
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/06Cloud.unity
+    guid: b473a15bc729d90438c93305133c9925
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/T1Transition.unity
+    guid: 65bba8d82fe8abf40904896e3de15174
+  - enabled: 1
+    path: Assets/Scenes/Gameplay Scenes/T2Freefall.unity
+    guid: 71cb14a584ff6ff49a6eeac3874a3adf
+  - enabled: 1
+    path: Assets/Scenes/M01Postgame.unity
+    guid: 68907f73bfc4c1c4e98471b8875eb830
+  m_configObjects: {}
